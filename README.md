@@ -1,4 +1,4 @@
-# EEG-school-project
+# 2 Probs EEG
 we have been doing an EEG(Electroencephalogram) to be able to run researches in the long term
 in this project we changed the project of cah6 https://www.instructables.com/DIY-EEG-and-ECG-Circuit/ to suit ourselves. you can take a look at it is a great docs to people who are trying to do such a thing 
 
